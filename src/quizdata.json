@@ -1,0 +1,72 @@
+{
+  "Ethereum Basics": [
+    {
+      "question": "The founder of Ethereum was",
+      "ans": "Vitalik Buterin"
+    },
+    {
+      "question": "The highlight feature of Ethereum was",
+      "ans": "Smart Contracts"
+    },
+    {
+      "question": "What is the native token of Ethereum called?",
+      "ans": "Ether"
+    },
+    {
+      "question": "What is the main network of Ethereum called?",
+      "ans": "Mainnet"
+    }
+  ],
+
+  "Cryptography": [
+    {
+      "question": "What type of consensus mechanism did Ethereum use before Ethereum 2.0?",
+      "ans": "Proof of Work"
+    },
+    {
+      "question": "What is the name of Ethereum's Cryptographic Hash Function?",
+      "ans": "Keccak-256"
+    },
+    {
+      "question": "Which hashing algorithm is used on Public keys to get the Ethereum address?",
+      "ans": "Keccak-256"
+    }
+  ],
+
+  "Transactions": [
+    {
+      "question": "Does Ethereum Transaction include a Nonce?",
+      "ans": "Yes"
+    },
+    {
+      "question": "What is the fuel of Ethereum?",
+      "ans": "Gas"
+    },
+    {
+      "question": "Gas is calculated in which unit?",
+      "ans": "Wei"
+    },
+    {
+      "question": "Which protocol does the Ethereum network use for transaction propagation?",
+      "ans": "Flood Routing"
+    }
+  ],
+  "Smart Contracts": [
+    {
+      "question": "Smart contracts are programmed using which language",
+      "ans": "Solidity"
+    },
+    {
+      "question": "What does the first line of a solidity program include?",
+      "ans": "License Identifier"
+    },
+    {
+      "question": "Does solidity have a predefined data type for addresses?",
+      "ans": "Yes"
+    },
+    {
+      "question": "Which concept in solidity is similar to Classes in other programming languages?",
+      "ans": "Contract"
+    }
+  ]
+}
